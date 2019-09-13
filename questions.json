@@ -35,7 +35,7 @@
 	{
 
 		"setId": "2",
-		"setone": [{
+		"settwo": [{
 				"id": "1",
 				"question": "1 - When will the world end?",
 				"answer": "A"
