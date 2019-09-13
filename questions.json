@@ -5,107 +5,27 @@
 		"setone": [{
 				"id": "1",
 				"question": "1 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			},
 			{
 				"id": "2",
 				"question": "2 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			},
 			{
 				"id": "3",
 				"question": "3 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			},
 			{
 				"id": "4",
 				"question": "4 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			},
 			{
 				"id": "5",
 				"question": "5 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			}
 
 		]
@@ -115,110 +35,31 @@
 	{
 
 		"setId": "2",
-		"settwo": [{
+		"setone": [{
 				"id": "1",
 				"question": "1 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			},
 			{
 				"id": "2",
 				"question": "2 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
+				
 			},
 			{
 				"id": "3",
 				"question": "3 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			},
 			{
 				"id": "4",
 				"question": "4 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			},
 			{
 				"id": "5",
 				"question": "5 - When will the world end?",
-				"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
-						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "1 Lt",
-						"title": "Option D"
-					}
-				]
+				"answer": "A"
 			}
 
 		]
