@@ -5,7 +5,23 @@
 			"setone": [{
 					"id": "1",
 					"question": "1 - When will the world end?",
-					"answer": "A"
+					"answer": [{
+						"check": "0",
+						"title": "Option A"
+					},
+					{
+						"check": "1",
+						"title": "Option B"
+					},
+					{
+						"check": "0",
+						"title": "Option C"
+					},
+					{
+						"check": "1 Lt",
+						"title": "Option D"
+					}
+				]
 				},
 				{
 					"id": "2",
