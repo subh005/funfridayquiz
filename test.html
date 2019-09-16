@@ -40,19 +40,35 @@
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
 
 <script type="text/javascript">
-	$.getJSON("https://raw.githubusercontent.com/subh005/BBDgame/master/questions.json", function(result){
+	$.ajax({
+		type:'GET',
+        url: "https://raw.githubusercontent.com/subh005/BBDgame/master/questions.json",
+        dataType: 'json',
+        success: function(result){
             $.each(result.quiz, function(i, f){
-            	var allsetcontent = '<p>test2222</p>'
-            	/*var allsetcontent = '<div class="set-container" id="set-container'+f.setId+'">'
+var something = '<div class="question-container">'
+$(something).appendTo(".category-body");
               $.each(f.setone, function(i, r){
-              	'<div><div>'+r.question+'</div></div>'
-              });
-              +'</div>'*/
-              $(allsetcontent).appendTo(".testContainer");
-          });
-          
-      });
 
+var something1 = '<div class="question-box">'+r.question+'</div><div class="answer-box">'
+$(something1).appendTo(".question-container");
+/*var question = '<div class="question-box">'+r.question+'</div>'*/
+/*$(something).appendTo(".answer-box");*/
+              $.each(r.answer, function(i, h){
+var something2 ='<div class="answer-box-option">'+h.title+'</div>'
+$(something2).appendTo(".answer-box");
+              });
+       var something3 = '</div></div>'
+              $(something3).appendTo(".question-container");
+             /*console.log('exit');*/
+             /* +'</div>'*/
+});
+              /*+'</div>'*/
+              
+          });
+                         
+        }
+    });
 
 	function checkAnswer(answervalue){
 		var answer = answervalue;
