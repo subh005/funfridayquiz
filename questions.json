@@ -4,7 +4,7 @@
 			"setId": "1",
 			"setone": [{
 					"id": "1",
-					"question": "1 - When will the world end?",
+					"question": "When will the world end?",
 					"answer": [{
 						"check": "0",
 						"title": "Option A1"
@@ -25,7 +25,7 @@
 				},
 				{
 					"id": "2",
-					"question": "2 - When will the world end?",
+					"question": "How many chickens would it take to kill an elephant?",
 					"answer": [{
 						"check": "0",
 						"title": "Option A2"
@@ -46,7 +46,7 @@
 				},
 				{
 					"id": "3",
-					"question": "3 - When will the world end?",
+					"question": "Which body part do you wish you could detach and why?",
 					"answer": [{
 						"check": "0",
 						"title": "Option A3"
@@ -67,7 +67,7 @@
 				},
 				{
 					"id": "4",
-					"question": "4 - When will the world end?",
+					"question": "If life were a video game, what would some of the cheat codes be?",
 					"answer": [{
 						"check": "0",
 						"title": "Option A4"
@@ -88,7 +88,7 @@
 				},
 				{
 					"id": "5",
-					"question": "5 - When will the world end?",
+					"question": "What’s the best type of cheese??",
 					"answer": [{
 						"check": "0",
 						"title": "Option A5"
