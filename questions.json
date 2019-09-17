@@ -5,7 +5,7 @@
 			"setone": [{
 					"id": "1",
 					"question": "1 - When will the world end?",
-					"answer1": [{
+					"answer": [{
 						"check": "0",
 						"title": "Option A"
 					},
@@ -26,7 +26,7 @@
 				{
 					"id": "2",
 					"question": "2 - When will the world end?",
-					"answer2": [{
+					"answer": [{
 						"check": "0",
 						"title": "Option A"
 					},
@@ -47,7 +47,7 @@
 				{
 					"id": "3",
 					"question": "3 - When will the world end?",
-					"answer3": [{
+					"answer": [{
 						"check": "0",
 						"title": "Option A"
 					},
@@ -68,7 +68,7 @@
 				{
 					"id": "4",
 					"question": "4 - When will the world end?",
-					"answer4": [{
+					"answer": [{
 						"check": "0",
 						"title": "Option A"
 					},
@@ -89,7 +89,7 @@
 				{
 					"id": "5",
 					"question": "5 - When will the world end?",
-					"answer5": [{
+					"answer": [{
 						"check": "0",
 						"title": "Option A"
 					},
