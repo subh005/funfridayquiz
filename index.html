@@ -1,0 +1,83 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<title>Quiz time</title>
+<style type="text/css">
+.header{width:100%; height:50px; line-height:50px; text-align:center; background-color: #000; color:#fff;
+}
+.category-body{width:300px; margin:auto;}
+	.question-container{width:100%;}
+.question-box{min-height: 200px; padding:5px; line-height:35px; background-color:#ce93d8; color:#fff; font-size: 22px; padding-top: 40px;}
+.answer-box{width:100%;}
+.answer-box-option{width:99%; margin:auto; margin-top:10px; background-color:#2196f3; color:#fff; line-height:25px; text-align: center; cursor:pointer;}
+.message-box{display:none;}
+.message-text{width:100%;  line-height:30px; text-align:center; }
+.next-button{width:100%; height:30px; line-height:30px; background-color:blue; color:#fff;  text-align:center;}
+	</style>
+</head>
+<body>
+	<div class="header">Quiz Time</div>
+<div class="category-body">
+	<!-- <div class="question-container">
+	<div class="question-box">Question will displayed here, it can be long.</div>
+	<div class="answer-box">
+		<div class="answer-box-option" onclick="checkAnswer(0)">dummy A</div>
+		<div class="answer-box-option" onclick="checkAnswer(1)">dummy B</div>
+		<div class="answer-box-option" onclick="checkAnswer(0)">dummy C</div>
+		<div class="answer-box-option" onclick="checkAnswer(0)">dummy D</div>
+	</div>
+	<div class="message-box">
+		<div class="message-text"></div>
+<div class="next-button">Next</div>
+	</div>
+	
+</div> -->
+<div class="testContainer">
+	test
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+
+<script type="text/javascript">
+	$.ajax({
+		type:'GET',
+        url: "https://raw.githubusercontent.com/subh005/BBDgame/master/questions.json",
+        dataType: 'json',
+        success: function(result){
+            $.each(result.quiz, function(i, f){
+              $.each(f.setone, function(i, r){
+var something1 = '<div class="question-container"><div class="question-box">'+r.question+'</div><div class="answer-box">'
+$(something1).appendTo(".category-body");
+/*var question = '<div class="question-box">'+r.question+'</div>'*/
+/*$(something).appendTo(".answer-box");*/
+var somer = 'r.answer'+r.id+''
+              $.each(somer, function(i, h){
+var something2 ='<div class="answer-box-option">'+h.title+'</div>'
+$(something2).appendTo(".answer-box");
+              });
+       var something3 = '</div></div>'
+              $(something3).appendTo(".question-container");
+             /* $(something).appendTo(".category-body");*/
+             /*console.log('exit');*/
+             /* +'</div>'*/
+});
+              /*+'</div>'*/
+              
+          });
+                         
+        }
+    });
+	function checkAnswer(answervalue){
+		var answer = answervalue;
+		if (answer == 1){
+			$('.message-text').text('Wow thats Correct !!');
+}
+else{$('.message-text').text('Oops incorrect !!');}
+$('.answer-box').css("display", "none");
+$('.message-box').css("display", "block");
+	}
+</script>	
+</body>
+</html>
