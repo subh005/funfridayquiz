@@ -1,0 +1,13 @@
+body{font-family: 'Nanum Gothic', sans-serif; font-size:38px;}
+.header{width:100%; height:150px; line-height:150px; text-align:center; background-color: #000; color:#fff;
+}
+.category-body{width:100%; margin:auto;}
+	.question-container{width:100%; display:none;}
+.question-box{min-height:500px; padding:40px; line-height:60px; background-color:#26c6da; color:#fff; font-size:58px;}
+.answer-box{width:100%;}
+.answer-box-option{width:90%; margin:auto; margin-top:10px; background-color:#66bb6a; color:#fff; padding:5%; text-align: center; cursor:pointer; box-shadow: 1px 1px 2px #66bb6a;}
+.message-box{display:none;}
+.message-text{width:100%;  line-height:100px; text-align:center; color:#ffca28; font-size: 48px; }
+.next-button{width:90%; padding:5%; background-color:#2979ff; color:#fff;  text-align:center; display:none; cursor:pointer; box-shadow: 1px 1px 2px #2979ff;}
+.showtreasure{width:100%; height:450px; text-align:center; line-height:450px; background-color:#ffca28; color:#000; font-size:138px;  text-decoration: bold; display:none;}
+.active{display:block;}
