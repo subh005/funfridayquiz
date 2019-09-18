@@ -39,7 +39,7 @@ $.ajax({
         success: function(result){
             $.each(result.quiz, function(i, f){
             	
-              $.each(f.setfive, function(i, r){
+              $.each(f.setsix, function(i, r){
               	var answerList = "";
               	var something1 = '<div class="question-container" id="question-container'+r.id+'"><div class="question-box"' 
               	+'id="question-box'+r.id+'">'+r.question+'</div><div class="answer-box" id="answer-box'+r.id+'">'
@@ -80,7 +80,7 @@ $('#answer-box'+nextid).css("display", "none");
 function showNext(nextid){
 	var currentscore = parseInt($('#points').html());
 	if(currentscore == 5){
-		$('.showtreasure').text('9');
+		$('.showtreasure').text('Nahi');
 $('.showtreasure').addClass("active");
 	}
 	if (nextid == 5){
