@@ -2,13 +2,17 @@
 <html lang="en">
 <head>
 <title>Quiz</title>
-<link href="https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Pacifico|Vollkorn+SC&display=swap" rel="stylesheet">
+<!-- <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet"> -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap" rel="stylesheet"> -->
 <style type="text/css">
-body{font-family: 'Nanum Gothic', sans-serif; font-size:34px;}
-.header{width:100%; height:150px; line-height:150px; text-align:center; background-color: #000; color:#fff;}
-.category-body{width:96%; margin:auto;}
+body{ font-size:34px; font-family: 'Pacifico', cursive; 
+font-family: 'Vollkorn SC', serif; }
+.header{width:100%; height:150px; line-height:150px; text-align:center; color:#202124; font-weight:bold; border-bottom:1px solid #eee; box-shadow: 1px 1px 1px #eee; background-color: #e1f5fe}
+.category-image{width:352px; height:132px; margin:auto; margin-top:50px;}
+.category-body{width:90%; margin:auto; }
 .category-body a{text-decoration: none;}
-.category-button{width:100%; height:250px; line-height:250px;  margin-top:2%; text-align:center; background-color:#ff5252; border-radius:4px; box-shadow: 1px 1px 2px #ff5252; color:#fff;}
+.category-button{width:100%; height:200px; line-height:200px;  margin-top:5%; text-align:center; background-color:#ff5252; border-radius:6px; box-shadow: 1px 1px 2px #ff5252; color:#fff;}
 @media only screen and (max-width: 600px) {
 	.header{ height:80px; line-height:80px; text-align:center; background-color: #000; color:#fff; }
 	.category-body{width:100%; margin:auto;}
@@ -19,14 +23,16 @@ body{font-family: 'Nanum Gothic', sans-serif; font-size:34px;}
 </style>
 </head>
 <body>
-<div class="header">QUIZ TIME</div>
+<div class="header">FUN FRIDAY</div>
+
+<div class="category-image" style="background-image: url(https://github.com/subh005/funfridayquiz/blob/master/quiz-time.jpg); background-size: contain; "></div>
 <div class="category-body">
-	<a href="setone.html"><div class="category-button">SET 1 - BBD</div></a>
-	<a href="settwo.html"><div class="category-button">SET 2 - MOVIES</div></a>
-	<a href="setthree.html"><div class="category-button">SET 3 - POLITICS</div></a>
-	<a href="setfour.html"><div class="category-button">SET 4 - SPORTS</div></a>
-	<a href="setfive.html"><div class="category-button">SET 5 - HISTORY</div></a>
-	<a href="setsix.html"><div class="category-button">SET 6 - FUN FACT</div></a>
+	<a href="setone.html"><div class="category-button">BBD</div></a>
+	<a href="settwo.html"><div class="category-button">MOVIES</div></a>
+	<a href="setthree.html"><div class="category-button">POLITICS</div></a>
+	<a href="setfour.html"><div class="category-button">SPORTS</div></a>
+	<a href="setfive.html"><div class="category-button">HISTORY</div></a>
+	<a href="setsix.html"><div class="category-button">FUN FACT</div></a>
 </div>
 </body>
 </html>
