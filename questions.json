@@ -4,106 +4,211 @@
 			"setId": "1",
 			"setone": [{
 					"id": "1",
-					"question": "When will the world end?",
+					"question": "When did the first Big Billion Days sale kick off?",
 					"answer": [{
-						"check": "0",
-						"title": "Option A1"
-					},
-					{
 						"check": "1",
-						"title": "Option B1"
+						"title": "October 6 2014"
 					},
 					{
 						"check": "0",
-						"title": "Option C1"
+						"title": "September 6 2014"
 					},
 					{
 						"check": "0",
-						"title": "Option D1"
+						"title": "September 12 2014"
+					},
+					{
+						"check": "0",
+						"title": "November 2 2015"
 					}
 				]
 				},
 				{
 					"id": "2",
-					"question": "How many chickens would it take to kill an elephant?",
+					"question": "What was the tagline of 2017 BBD?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A2"
+						"title": "Ab India Hoga Budget Se Mukt"
+					},
+					{
+						"check": "0",
+						"title": "Ab India Hoga Mehangai Se Muk"
 					},
 					{
 						"check": "1",
-						"title": "Option B2"
+						"title": "Ab mehengaai giregi"
 					},
 					{
 						"check": "0",
-						"title": "Option C2"
-					},
-					{
-						"check": "0",
-						"title": "Option D2"
+						"title": "Ab har wish hogi poori"
 					}
 				]
 				},
 				{
 					"id": "3",
-					"question": "Which body part do you wish you could detach and why?",
+					"question": "Shoes sold per second in 2018 BBD?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A3"
+						"title": "4"
+					},
+					{
+						"check": "0",
+						"title": "3"
 					},
 					{
 						"check": "1",
-						"title": "Option B3"
+						"title": "5"
 					},
 					{
 						"check": "0",
-						"title": "Option C3"
-					},
-					{
-						"check": "0",
-						"title": "Option D3"
+						"title": "6"
 					}
 				]
 				},
 				{
 					"id": "4",
-					"question": "If life were a video game, what would some of the cheat codes be?",
+					"question": "Smartphones sold per day in 2018 BBD?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A4"
+						"title": "1.2 million"
 					},
 					{
 						"check": "1",
-						"title": "Option B4"
+						"title": "2 million"
 					},
 					{
 						"check": "0",
-						"title": "Option C4"
+						"title": "5 million"
 					},
 					{
 						"check": "0",
-						"title": "Option D4"
+						"title": "3 million"
 					}
 				]
 				},
 				{
 					"id": "5",
-					"question": "What’s the best type of cheese??",
+					"question": "Ipads sold every hour in 2018 BBD ?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A5"
+						"title": "140"
 					},
 					{
 						"check": "0",
-						"title": "Option B5"
-					},
-					{
-						"check": "0",
-						"title": "Option C5"
+						"title": "50"
 					},
 					{
 						"check": "1",
-						"title": "Option D5"
+						"title": "120"
+					},
+					{
+						"check": "0",
+						"title": "130"
+					}
+				]
+				},
+				{
+					"id": "6",
+					"question": "In 2018 BBD Length of mobile cables sold was 100X the height of?",
+					"answer": [{
+						"check": "0",
+						"title": "Qutb Minar"
+					},
+					{
+						"check": "1",
+						"title": "Burj Khalifa"
+					},
+					{
+						"check": "0",
+						"title": "Eiffel Tower"
+					},
+					{
+						"check": "0",
+						"title": "Statue of Liberty"
+					}
+				]
+				},
+				{
+					"id": "7",
+					"question": "1 out of ____ lipsticks sold in India were sold on Flipkart in 2018 BBD?",
+					"answer": [{
+						"check": "0",
+						"title": "4"
+					},
+					{
+						"check": "0",
+						"title": "5"
+					},
+					{
+						"check": "0",
+						"title": "8"
+					},
+					{
+						"check": "1",
+						"title": "2"
+					}
+				]
+				},
+				{
+					"id": "8",
+					"question": "What was the BBD 2017 Dates?",
+					"answer": [{
+						"check": "1",
+						"title": "21st - 24th September"
+					},
+					{
+						"check": "0",
+						"title": "6th - 9th October"
+					},
+					{
+						"check": "0",
+						"title": "12th - 15th October"
+					},
+					{
+						"check": "0",
+						"title": "21st - 24th October"
+					}
+				]
+				},
+				{
+					"id": "9",
+					"question": "What was the flipkart market share according to RedSeer Consulting in 2017 BBD?",
+					"answer": [{
+						"check": "1",
+						"title": "58%"
+					},
+					{
+						"check": "0",
+						"title": "62%"
+					},
+					{
+						"check": "0",
+						"title": "26%"
+					},
+					{
+						"check": "0",
+						"title": "85%"
+					}
+				]
+				},
+				{
+					"id": "10",
+					"question": "No of Celebrities endorsing BBD 2019?",
+					"answer": [{
+						"check": "0",
+						"title": "6"
+					},
+					{
+						"check": "1",
+						"title": "8"
+					},
+					{
+						"check": "0",
+						"title": "9"
+					},
+					{
+						"check": "0",
+						"title": "5"
 					}
 				]
 				}
