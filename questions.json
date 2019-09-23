@@ -336,106 +336,211 @@
 			"setId": "3",
 			"setthree": [{
 					"id": "1",
-					"question": "1 - When will the world end?",
+					"question": "Which state government declared 2020 as Artificial Intelligence year?",
 					"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Telangana"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Andhra Pradesh"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Karnataka"
+					},
+					{
+						"check": "0",
+						"title": "Orissa"
 					}
 				]
 				},
 				{
 					"id": "2",
-					"question": "2 - When will the world end?",
+					"question": "Which among the following journalists received Raman Magsaysay award recently?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Arnab Goswami"
+					},
+					{
+						"check": "0",
+						"title": "Rajat Sharma"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Ravish Kumar"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "0",
-						"title": "Option D"
+						"title": "Sudhir Chaudhary"
 					}
 				]
 				},
 				{
 					"id": "3",
-					"question": "3 - When will the world end?",
+					"question": "What is the new name given to the region Hyderabad – Karnataka?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Telangana Karnataka"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Kalyana Karnataka"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Samanya Karnataka"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Adbhuta Karnataka"
 					}
 				]
 				},
 				{
 					"id": "4",
-					"question": "4 - When will the world end?",
+					"question": "What is the name of the Chandrayana 2 lander?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Sardar Patel"
+					},
+					{
+						"check": "0",
+						"title": "Pragyan"
+					},
+					{
+						"check": "0",
+						"title": "Vikrant"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "0",
-						"title": "Option D"
+						"title": "Vikram"
 					}
 				]
 				},
 				{
 					"id": "5",
-					"question": "5 - When will the world end?",
+					"question": "When is Hindi Diwas celebrated?",
+					"answer": [{
+						"check": "1",
+						"title": "14th September"
+					},
+					{
+						"check": "0",
+						"title": "16th September"
+					},
+					{
+						"check": "0",
+						"title": "14th October"
+					},
+					{
+						"check": "0",
+						"title": "16 October"
+					}
+				]
+				},
+				{
+					"id": "6",
+					"question": "Who is the present CJI?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Dipak Mishra"
+					},
+					{
+						"check": "0",
+						"title": "T S Thakur"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Ranjan Gogoi"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Jagadish Singh Khehar"
+					}
+				]
+				},
+				{
+					"id": "7",
+					"question": "Where is International Court of Justice located?",
+					"answer": [{
+						"check": "0",
+						"title": "Geneva"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Delhi"
+					},
+					{
+						"check": "0",
+						"title": "London"
+					},
+					{
+						"check": "1",
+						"title": "The Hague"
+					}
+				]
+				},
+				{
+					"id": "8",
+					"question": "The Indian to beat the computers in mathematical wizardry is?",
+					"answer": [{
+						"check": "0",
+						"title": "Ramanujam"
+					},
+					{
+						"check": "0",
+						"title": "Rina Panigrahi"
+					},
+					{
+						"check": "0",
+						"title": "Raja Ramanna"
+					},
+					{
+						"check": "1",
+						"title": "Shakunthala Devi"
+					}
+				]
+				},
+				{
+					"id": "9",
+					"question": "Which year was you tube launched?",
+					"answer": [{
+						"check": "1",
+						"title": "Feb 2005"
+					},
+					{
+						"check": "0",
+						"title": "September 1998"
+					},
+					{
+						"check": "0",
+						"title": "March 2006"
+					},
+					{
+						"check": "0",
+						"title": "October 2010"
+					}
+				]
+				},
+				{
+					"id": "10",
+					"question": "Which among the following phone manufactures recently manufactured a phone with 6000mah battery capacity?",
+					"answer": [{
+						"check": "0",
+						"title": "Iphone"
+					},
+					{
+						"check": "1",
+						"title": "Samsung"
+					},
+					{
+						"check": "0",
+						"title": "Xiaomi"
+					},
+					{
+						"check": "0",
+						"title": "One Plus"
 					}
 				]
 				}
