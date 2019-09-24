@@ -656,107 +656,212 @@
 			"setId": "4",
 			"setfour": [{
 					"id": "1",
-					"question": "1 - When will the world end?",
+					"question": "Kohli emulated whom with his 11th T20I man of the match award?",
 					"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Shahid Afridi & Mohammed Nabi"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Chris Gayle & ABD"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Shahid Afridi & Bumrah"
+					},
+					{
+						"check": "0",
+						"title": "Shane Watson & Dwayne Bravo"
 					}
 				]
 				},
 				{
 					"id": "2",
-					"question": "2 - When will the world end?",
+					"question": "Each half in a hockey game consist of?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "30 mins"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "35 mins"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "40 mins"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "45 mins"
 					}
 				]
 
 				},
 				{
 					"id": "3",
-					"question": "3 - When will the world end?",
+					"question": "Who is the present Indian football team captain?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Sunil Chetri"
+					},
+					{
+						"check": "0",
+						"title": "Udanta Singh"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Gurpreet Singh Sandhu"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "0",
-						"title": "Option D"
+						"title": "Bhaichung Bhutia"
 					}
 				]
 				},
 				{
 					"id": "4",
-					"question": "4 - When will the world end?",
+					"question": "who recently won Men’s world badminton championship ?",
 					"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Kento Momota"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "PV Sindhu"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Chen Long"
+					},
+					{
+						"check": "0",
+						"title": "Carolina Marlin"
 					}
 				]
 				},
 				{
 					"id": "5",
-					"question": "5 - When will the world end?",
+					"question": "In which year Sports Authority of India was established?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "1980"
+					},
+					{
+						"check": "0",
+						"title": "1985"
+					},
+					{
+						"check": "0",
+						"title": "1981"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "1982"
+					}
+				]
+				},
+				{
+					"id": "6",
+					"question": "The summer Olympics of 2028 will be organized at?",
+					"answer": [{
+						"check": "0",
+						"title": "Paris"
+					},
+					{
+						"check": "1",
+						"title": "Los Angeles"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Tokyo"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Moscow"
+					}
+				]
+				},
+				{
+					"id": "7",
+					"question": "Who has become the youngest captain in test cricket?",
+					"answer": [{
+						"check": "0",
+						"title": "Virat Kohli"
+					},
+					{
+						"check": "0",
+						"title": "Ben Stokes"
+					},
+					{
+						"check": "1",
+						"title": "Rashid Khan"
+					},
+					{
+						"check": "0",
+						"title": "Mohammad Nabi"
+					}
+				]
+				},
+				{
+					"id": "8",
+					"question": "What was the name of the Cricket World Cup played in 1987?",
+					"answer": [{
+						"check": "1",
+						"title": "Reliance Cup"
+					},
+					{
+						"check": "0",
+						"title": "Benson and Hedges Cup"
+					},
+					{
+						"check": "0",
+						"title": "Wills Cup"
+					},
+					{
+						"check": "0",
+						"title": "None of the above"
+					}
+				]
+				},
+				{
+					"id": "9",
+					"question": "First Indian woman cricketer honoured with MCC life membership is ?",
+					"answer": [{
+						"check": "0",
+						"title": "Mithali Raj"
+					},
+					{
+						"check": "0",
+						"title": "Neetu David"
+					},
+					{
+						"check": "1",
+						"title": "Anjum Chopra"
+					},
+					{
+						"check": "0",
+						"title": "Jhulan Goswami"
+					}
+				]
+				},
+				{
+					"id": "10",
+					"question": "Which Indian wrestler won bronze medal at World Wrestling Championship 2019?",
+					"answer": [{
+						"check": "1",
+						"title": "Bajrang Punia"
+					},
+					{
+						"check": "0",
+						"title": "Vijender Singh"
+					},
+					{
+						"check": "0",
+						"title": "Sushil Kumar"
+					},
+					{
+						"check": "0",
+						"title": "Yogeshwar Dutt"
 					}
 				]
 				}
@@ -770,110 +875,220 @@
 			"setId": "5",
 			"setfive": [{
 					"id": "1",
-					"question": "1 - When will the world end?",
+					"question": "The traditional folk dance drama named “Dollu kunitha” belongs to which state?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Kerala"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Karnataka"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Telangana"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Tamil Nadu"
 					}
 				]
 				},
 				{
 					"id": "2",
-					"question": "2 - When will the world end?",
+					"question": "In what city does Julius Caesar take place?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Sicily"
+					},
+					{
+						"check": "0",
+						"title": "Paris"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Rome"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "0",
-						"title": "Option D"
+						"title": "Greece"
 					}
 				]
 
 				},
 				{
 					"id": "3",
-					"question": "3 - When will the world end?",
+					"question": "Shakespeare is rumored to have helped translate which famous book?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Romulus and Theodole"
+					},
+					{
+						"check": "0",
+						"title": "A Treatise of Men"
+					},
+					{
+						"check": "0",
+						"title": "War and Peace"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
-					},
-					{
-						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "0",
-						"title": "Option D"
+						"title": "The Bible"
 					}
 				]
 				},
 				{
 					"id": "4",
-					"question": "4 - When will the world end?",
+					"question": "Which one of the following manuscript is included in the UNESCO’s Memory of World Register?",
 					"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Rig Veda"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Ramayana"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Mahabharata"
+					},
+					{
+						"check": "0",
+						"title": "None of the above"
 					}
 				]
 				},
 				{
 					"id": "5",
-					"question": "5 - When will the world end?",
+					"question": "In which of the following festivals are boat races a special feature?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Rongali Bihu"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Onam"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Pongal"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Navratri"
+					}
+				]
+				},
+				{
+					"id": "6",
+					"question": "Madhubani a style of folk paintings, is popular in which of the following states in India?",
+					"answer": [{
+						"check": "0",
+						"title": "Uttar Pradesh"
+					},
+					{
+						"check": "0",
+						"title": "Rajasthan"
+					},
+					{
+						"check": "0",
+						"title": "Madhya Pradesh"
+					},
+					{
+						"check": "1",
+						"title": "Bihar"
 					}
 				]
 				}
+,
+				{
+					"id": "7",
+					"question": "Pungi is a dance form related to the state?",
+					"answer": [{
+						"check": "1",
+						"title": "Himachal Pradesh"
+					},
+					{
+						"check": "0",
+						"title": "Arunachal Pradesh"
+					},
+					{
+						"check": "0",
+						"title": "Chattisgarh"
+					},
+					{
+						"check": "0",
+						"title": "Jharkhand"
+					}
+				]
+				}
+,
+				{
+					"id": "8",
+					"question": "Kumbh Mela is held in every ___ years?",
+					"answer": [{
+						"check": "1",
+						"title": "12"
+					},
+					{
+						"check": "0",
+						"title": "10"
+					},
+					{
+						"check": "0",
+						"title": "7"
+					},
+					{
+						"check": "0",
+						"title": "5"
+					}
+				]
+				}
+,
+				{
+					"id": "9",
+					"question": "Which classical dance of the following is named after the village it was born from?",
+					"answer": [{
+						"check": "0",
+						"title": "Mohiniattam"
+					},
+					{
+						"check": "0",
+						"title": "Bharatanatyam"
+					},
+					{
+						"check": "1",
+						"title": "Kuchipudi"
+					},
+					{
+						"check": "0",
+						"title": "Kathakali"
+					}
+				]
+				}
+,
+				{
+					"id": "10",
+					"question": "In which state is the Hornbill Festival held every year?",
+					"answer": [{
+						"check": "0",
+						"title": "Mizoram"
+					},
+					{
+						"check": "0",
+						"title": "Assam"
+					},
+					{
+						"check": "0",
+						"title": "Sikkim"
+					},
+					{
+						"check": "1",
+						"title": "Nagaland"
+					}
+				]
+				}
+
 
 			]
 
@@ -884,107 +1099,212 @@
 			"setId": "6",
 			"setsix": [{
 					"id": "1",
-					"question": "1 - When will the world end?",
+					"question": "It is estimated that at any given time, __ of the world's population is drunk?",
 					"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
 						"check": "1",
-						"title": "Option B"
+						"title": "0.7%"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "0.1%"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "0.2%"
+					},
+					{
+						"check": "0",
+						"title": "0.6%"
 					}
 				]
 				},
 				{
 					"id": "2",
-					"question": "2 - When will the world end?",
+					"question": "A shrimp's heart is in its ?",
 					"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Head"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Body"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Leg"
+					},
+					{
+						"check": "0",
+						"title": "It does not have a heart"
 					}
 				]
 
 				},
 				{
 					"id": "3",
-					"question": "3 - When will the world end?",
+					"question": "The McDonalds ad I am Lovin It, is taken from where?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Bob Dylan Song "
+					},
+					{
+						"check": "0",
+						"title": "T-Shirt Slogan"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Justin Timberlake Song"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "0",
-						"title": "Option D"
+						"title": "Army Motto"
 					}
 				]
 				},
 				{
 					"id": "4",
-					"question": "4 - When will the world end?",
+					"question": "Coca Cola was originally of which color?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Black"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Green"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Red"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Blue"
 					}
 				]
 				},
 				{
 					"id": "5",
-					"question": "5 - When will the world end?",
+					"question": "which city has the most rolls royce?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Singapore"
+					},
+					{
+						"check": "0",
+						"title": "Dubai"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Hong Kong"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Shanghai"
+					}
+				]
+				},
+				{
+					"id": "6",
+					"question": "The Chakra (Wheel) in the Indian national flag has how many spokes?",
+					"answer": [{
+						"check": "0",
+						"title": "18"
+					},
+					{
+						"check": "1",
+						"title": "24"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "16"
+					},
+					{
+						"check": "0",
+						"title": "26"
+					}
+				]
+				},
+				{
+					"id": "7",
+					"question": "It is impossible to __ with your eyes open?",
+					"answer": [{
+						"check": "1",
+						"title": "Sneeze"
+					},
+					{
+						"check": "0",
+						"title": "Sleep"
+					},
+					{
+						"check": "0",
+						"title": "Breathe at night"
+					},
+					{
+						"check": "0",
+						"title": "All of the above"
+					}
+				]
+				},
+				{
+					"id": "8",
+					"question": "What is Chandlers last name in the sitcom Friends?",
+					"answer": [{
+						"check": "0",
+						"title": "Geller"
+					},
+					{
+						"check": "1",
+						"title": "Bing"
+					},
+					{
+						"check": "0",
+						"title": "Perry"
+					},
+					{
+						"check": "0",
+						"title": "Cox"
+					}
+				]
+				},
+				{
+					"id": "9",
+					"question": "Which Symbol is present in Switzerland flag?",
+					"answer": [{
+						"check": "1",
+						"title": "Plus"
+					},
+					{
+						"check": "0",
+						"title": "Leaf"
+					},
+					{
+						"check": "0",
+						"title": "Red Circle"
+					},
+					{
+						"check": "0",
+						"title": "No symbol"
+					}
+				]
+				},
+				{
+					"id": "10",
+					"question": "Which Indian city is nicknamed the City of Pearls?",
+					"answer": [{
+						"check": "1",
+						"title": "Hyderabad"
+					},
+					{
+						"check": "0",
+						"title": "Surat"
+					},
+					{
+						"check": "0",
+						"title": "Jaipur"
+					},
+					{
+						"check": "0",
+						"title": "Kolar"
 					}
 				]
 				}
