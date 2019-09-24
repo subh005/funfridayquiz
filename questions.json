@@ -222,107 +222,212 @@
 			"setId": "2",
 			"settwo": [{
 					"id": "1",
-					"question": "1 - When will the world end?",
+					"question": "A. R. Rahman won Oscar for which category?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Best Sound Mixing"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Best Original Score"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Best Foreign Language Film"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "All of the above"
 					}
 				]
 				},
 				{
 					"id": "2",
-					"question": "2 - When will the world end?",
+					"question": "Which is the only Disney Movie to be nominated for 13 Academy Awards?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Mary Jane"
+					},
+					{
+						"check": "0",
+						"title": "Alladin"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Mary Poppins"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
-					},
-					{
-						"check": "0",
-						"title": "Option D"
+						"title": "Little Mermaid"
 					}
 				]
 
 				},
 				{
 					"id": "3",
-					"question": "3 - When will the world end?",
+					"question": "Which movie was named the Best Feature Film at the 65th National Film Awards",
 					"answer": [{
-						"check": "0",
-						"title": "Option A"
-					},
-					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Village Rockstars"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Sinjar"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Mom"
+					},
+					{
+						"check": "0",
+						"title": "Toilet Ek Prem Katha"
 					}
 				]
 				},
 				{
 					"id": "4",
-					"question": "4 - When will the world end?",
+					"question": "What was the name of the character played by Dev Patel in Slumdog MIllionaire?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Salim Malik"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Jamal Malik"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Javed  Malik"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Salman Qureshi"
 					}
 				]
 				},
 				{
 					"id": "5",
-					"question": "5 - When will the world end?",
+					"question": "What was the Srinidhi Shetty character’s name in movie KGF?",
 					"answer": [{
 						"check": "0",
-						"title": "Option A"
+						"title": "Milky"
+					},
+					{
+						"check": "0",
+						"title": "Deepa"
+					},
+					{
+						"check": "0",
+						"title": "Gangamma"
 					},
 					{
 						"check": "1",
-						"title": "Option B"
+						"title": "Reena"
+					}
+				]
+				},
+				{
+					"id": "6",
+					"question": "You got a dream... You gotta protect it, which movie is this quote from?",
+					"answer": [{
+						"check": "1",
+						"title": "The Pursuit of Happyness"
 					},
 					{
 						"check": "0",
-						"title": "Option C"
+						"title": "Seven Pounds"
 					},
 					{
 						"check": "0",
-						"title": "Option D"
+						"title": "Concussion"
+					},
+					{
+						"check": "0",
+						"title": "The Wolf of Wall Street"
+					}
+				]
+				},
+				{
+					"id": "7",
+					"question": "What is the total no of movies in Star Wars Franchise?",
+					"answer": [{
+						"check": "0",
+						"title": "8"
+					},
+					{
+						"check": "0",
+						"title": "14"
+					},
+					{
+						"check": "1",
+						"title": "10"
+					},
+					{
+						"check": "0",
+						"title": "12"
+					}
+				]
+				},
+				{
+					"id": "8",
+					"question": "How many daughters do Aamir Khan character have in Dangal Movie?",
+					"answer": [{
+						"check": "0",
+						"title": "2"
+					},
+					{
+						"check": "1",
+						"title": "4"
+					},
+					{
+						"check": "0",
+						"title": "3"
+					},
+					{
+						"check": "0",
+						"title": "5"
+					}
+				]
+				},
+				{
+					"id": "9",
+					"question": "What is the name of the kingdom where the 2013 animated movie Frozen is set?",
+					"answer": [{
+						"check": "1",
+						"title": "Arendelle"
+					},
+					{
+						"check": "0",
+						"title": "Narnia"
+					},
+					{
+						"check": "0",
+						"title": "Andalasia"
+					},
+					{
+						"check": "0",
+						"title": "Motunui"
+					}
+				]
+				},
+				{
+					"id": "10",
+					"question": "Who played Jack Dawson in the 1997 epic Titanic?",
+					"answer": [{
+						"check": "1",
+						"title": "Leonardo DiCaprio"
+					},
+					{
+						"check": "0",
+						"title": "Billy Zane"
+					},
+					{
+						"check": "0",
+						"title": "Victor Garber"
+					},
+					{
+						"check": "0",
+						"title": "Jonathan Hyde"
 					}
 				]
 				}
