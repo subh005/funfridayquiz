@@ -65,11 +65,11 @@ $('#answer-box'+nextid).css("display", "none");
 
 function showNext(nextid){
 	var currentscore = parseInt($('#points').html());
-	if(currentscore == 5){
+	if(currentscore == 10){
 		$('.showtreasure').text('Bada');
 $('.showtreasure').addClass("active");
 	}
-	if (nextid == 5){
+	if (nextid == 10){
 		$('.question-container').removeClass("active");
 		$('.message-text').html('<a href="index.html">Go to next Set</a>');
 	}
