@@ -9,21 +9,28 @@
 <style type="text/css">
 body{ font-size:54px; font-family: 'Pacifico', cursive; 
 font-family: 'Vollkorn SC', serif; }
-.header{width:100%; height:150px; line-height:150px; font-size: 54px; text-align:center; color:#fff; font-weight:bold; border-bottom:1px solid #eee; box-shadow: 1px 1px 1px #eee; background-color: #2874f0}
+	.container{width:50%; margin:auto;}
+	.header{width:100%; height:80px; line-height:80px; font-size: 34px; text-align:center; color:#fff; font-weight:bold; border-bottom:1px solid #eee; box-shadow: 1px 1px 1px #eee; background-color: #2874f0}
+.category-image{width:352px; height:132px; margin:auto; margin-top:30px;}
+.category-body{width:90%; margin:auto; }
+.category-body a{text-decoration: none;}
+.category-button{width:100%; height:80px; line-height:80px;  margin-top:5%; text-align:center; background-color:#ff5252; border-radius:6px; box-shadow: 1px 1px 2px #ff5252; color:#fff;}
+
+@media only screen and (max-width: 600px) {
+	.container{width:100%; margin:none;}
+	.header{width:100%; height:150px; line-height:150px; font-size: 54px; text-align:center; color:#fff; font-weight:bold; border-bottom:1px solid #eee; box-shadow: 1px 1px 1px #eee; background-color: #2874f0}
 .category-image{width:352px; height:132px; margin:auto; margin-top:50px;}
 .category-body{width:90%; margin:auto; }
 .category-body a{text-decoration: none;}
 .category-button{width:100%; height:200px; line-height:200px;  margin-top:5%; text-align:center; background-color:#ff5252; border-radius:6px; box-shadow: 1px 1px 2px #ff5252; color:#fff;}
-@media only screen and (max-width: 600px) {
-	.header{ height:80px; line-height:80px; text-align:center; background-color: #000; color:#fff; }
-	.category-body{width:100%; margin:auto;}
-	.category-button{width:100%; height:60px; line-height: 60px;} 
+
 
 }
 	
 </style>
 </head>
 <body>
+	<div class="container">
 <div class="header">FUN FRIDAY</div>
 
 <div class="category-image"><img src="quiz-time.jpg"></div>
@@ -35,5 +42,6 @@ font-family: 'Vollkorn SC', serif; }
 	<a href="setfive.html"><div class="category-button">ARTS & CULTURE</div></a>
 	<a href="setsix.html"><div class="category-button">FUN FACTS</div></a>
 </div>
+		<div>
 </body>
 </html>
